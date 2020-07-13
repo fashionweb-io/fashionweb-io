@@ -85,10 +85,11 @@ h2 {
 	padding-bottom: 30px;
 }
 h3 {
-	font-size: 16px;
+	font-size: 18px;
 	color: black;
 	font-weight: bold;
-	padding-bottom: 14px;
+	padding-bottom: 15px;
+	text-transform: uppercase;
 }
 p {	
 	font-size: 14px;
@@ -144,7 +145,7 @@ i {
 	float: right;
 }
 .important {
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: bold;
 	text-transform: uppercase;
 	font-style: italic;
