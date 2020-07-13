@@ -120,8 +120,8 @@ i {
 	text-align: left;
 }
 .blog-post {
-	background-color: FloralWhite;
-	border: 20px solid FloralWhite;
+	background-color: #fffaf0;
+	border: 20px solid #fffaf0;
 	border-radius: 7px;
 }
 .blog-post ul li {
