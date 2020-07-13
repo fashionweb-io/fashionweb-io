@@ -159,6 +159,7 @@ h2.posts {
 }
 .footer ul li {
 	display: inline-block;
+	padding-right: 10px;
 }
 .footer .copyright {
 	text-align: right;
@@ -233,7 +234,10 @@ h2.posts {
 		font-size: 32px;
 	}
 	h2 {
-		font-size: 15px;
+		display: none;
+	}
+	.nav {
+		float: none;
 	}
 	p, li, h3 {
 		font-size: 13px;
@@ -243,6 +247,9 @@ h2.posts {
 	}
 	.important {
 		font-size: 17px;
+	}
+	.nav li .active {
+		color: magenta;
 	}
 }
 @media all and (max-width: 320px) {
