@@ -104,6 +104,13 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+.blog-link .blog-post:hover{
+	background-color: #F8F8FF;
+	border: 20px solid #F8F8FF;
+}
+.blog-link:hover{
+	text-decoration: none;
+}
 i {
 	font-style: italic;
 }
