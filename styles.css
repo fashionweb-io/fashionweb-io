@@ -80,7 +80,7 @@ h1 a:hover {
 	text-decoration: none;
 }
 h2 {
-	color: magenta;
+	color: #D100D0;
 	font-size: 20px;
 	padding-bottom: 30px;
 }
@@ -260,7 +260,7 @@ h2.posts {
 		font-size: 17px;
 	}
 	.nav li .active {
-		color: magenta;
+		color: #D100D0;
 	}
 }
 @media all and (max-width: 320px) {
