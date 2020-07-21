@@ -256,7 +256,9 @@ h2.posts {
 	.nav li .active {
 		color: #D100D0;
 	}
-
+	.mobile-screen {
+		width: 100%;
+	}
 }
 @media all and (max-width: 375px) {
 	h1 {
