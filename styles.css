@@ -187,7 +187,8 @@ h2.posts {
 }
 .review span {
 	font-weight: bold;
-	color: #D100D0;
+	color: #B300B3;
+	font-size: 17px;
 }
 .mobile-screen {
 	width: 50%;
