@@ -109,9 +109,10 @@ a {
 a:hover {
 	text-decoration: underline;
 }
-.blog-link .blog-post:hover{
+.index .blog-post:hover{
 	background-color: #F8F8FF;
 	border: 20px solid #F8F8FF;
+	cursor: pointer;
 }
 .blog-link:hover{
 	text-decoration: none;
@@ -165,6 +166,13 @@ i {
 }
 h2.posts {
 	padding: 0 0 30px 20px;
+}
+.continue-reading {
+	background-color: blue;
+	border-radius: 5px;
+	color: white;
+	padding: 10px;
+	text-align: right;
 }
 .about img {
 	width: 80%;
