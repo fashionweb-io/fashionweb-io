@@ -101,15 +101,20 @@
 			<br>
 			<br>
 			<p class="date">Date: 2020. july. 13</p> 
-			<div id="hyvor-talk-view"></div>
-			<script type="text/javascript">
-				var HYVOR_TALK_WEBSITE = 1197;
-				var HYVOR_TALK_CONFIG = {
-				url: "https://fashionweb.io",
-        		id: "0001"
-				};
+			<script>
+			var disqus_config = function () {
+			this.page.url = 'https://fashionweb.io';
+			this.page.identifier = 'fashionweb-001';
+			};
+			
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://fashionweb-io-1.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
 			</script>
-			<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 		</div>
 
 	</div>
