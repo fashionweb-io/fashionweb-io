@@ -263,6 +263,9 @@ h2.posts {
 	.blog-post {
 		border: 10px solid #fffaf0;
 	}
+	.index .blog-post:hover{
+		border: 10px solid #F8F8FF;
+	}
 	.footer {
 		padding: 50px 0 0 0;
 	}
