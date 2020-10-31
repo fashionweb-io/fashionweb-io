@@ -289,6 +289,9 @@ h2.posts {
 	.important {
 		font-size: 17px;
 	}
+	.index .blog-post:hover{
+		border: 10px solid #F8F8FF;
+	}
 }
 @media all and (max-width: 320px) {
 	h1 {
@@ -309,5 +312,8 @@ h2.posts {
 	}
 	h2.posts {
 		padding: 0 0 10px 8px;
+	}
+	.index .blog-post:hover{
+		border: 10px solid #F8F8FF;
 	}
 }
