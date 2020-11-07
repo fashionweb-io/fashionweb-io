@@ -92,12 +92,12 @@ h3 {
 	text-transform: uppercase;
 }
 h4 {
-	font-size: 15px;
+	font-size: 16px;
 	color: black;
 	font-weight: bold;
 }
 p {	
-	font-size: 15px;
+	font-size: 16px;
 	color: black;
 	line-height: 1.7;
 	padding-bottom: 20px;
@@ -150,7 +150,7 @@ i {
 	margin-bottom: 120px;
 }
 .blog-post ul li {
-	font-size: 15px;
+	font-size: 16px;
 	color: black;
 	line-height: 1.7;
 	padding-left: 30px;
