@@ -203,6 +203,14 @@ h2.posts {
 	color: #B300B3;
 	font-size: 17px;
 }
+span.spoiler-alert {
+	font-weight: bold;
+	color: red;
+}
+span.spoiler {
+	font-weight: bold;
+	color: #fffaf0;
+}
 .mobile-screen {
 	width: 50%;
 }
