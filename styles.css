@@ -110,7 +110,6 @@ a:hover {
 	text-decoration: underline;
 }
 .index .blog-post:hover{
-	border: 20px solid #f9eed7;
 	cursor: pointer;
 }
 .blog-link {
@@ -268,16 +267,13 @@ span.spoiler {
 		line-height: 1.6;
 	}
 	.blog-post {
-		border: 10px solid #fffaf0;
-	}
-	.index .blog-post:hover{
-		border: 10px solid #F8F8FF;
+		border: 10px solid #faf0db;
 	}
 	.footer {
 		padding: 50px 0 0 0;
 	}
 	.nav li .active {
-		color: #D100D0;
+		color: #bc713f;
 	}
 	.mobile-screen {
 		width: 100%;
@@ -295,9 +291,6 @@ span.spoiler {
 	}
 	.important {
 		font-size: 17px;
-	}
-	.index .blog-post:hover{
-		border: 10px solid #F8F8FF;
 	}
 }
 @media all and (max-width: 320px) {
@@ -319,8 +312,5 @@ span.spoiler {
 	}
 	h2.posts {
 		padding: 0 0 10px 8px;
-	}
-	.index .blog-post:hover{
-		border: 10px solid #F8F8FF;
 	}
 }
