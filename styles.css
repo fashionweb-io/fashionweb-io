@@ -80,7 +80,7 @@ h1 a:hover {
 	text-decoration: none;
 }
 h2 {
-	color: #D100D0;
+	color: #bc713f;
 	font-size: 24px;
 	padding-bottom: 30px;
 }
@@ -110,8 +110,7 @@ a:hover {
 	text-decoration: underline;
 }
 .index .blog-post:hover{
-	background-color: #F8F8FF;
-	border: 20px solid #F8F8FF;
+	border: 20px solid #f9eed7;
 	cursor: pointer;
 }
 .blog-link {
@@ -144,8 +143,8 @@ i {
 	text-align: left;
 }
 .blog-post {
-	background-color: #fffaf0;
-	border: 20px solid #fffaf0;
+	background-color: #faf0db;
+	border: 20px solid #faf0db;
 	border-radius: 7px;
 	margin-bottom: 120px;
 }
@@ -195,12 +194,12 @@ h2.posts {
 	text-align: right;
 }
 .review p, .review h4 {
-	background-color: #E6E6FA;
+	background-color: #e4c27b;
 	padding: 10px;
 }
 .review span {
 	font-weight: bold;
-	color: #B300B3;
+	color: #694332;
 	font-size: 17px;
 }
 span.spoiler-alert {
@@ -209,7 +208,7 @@ span.spoiler-alert {
 }
 span.spoiler {
 	font-weight: bold;
-	color: #fffaf0;
+	color: #faf0db;
 }
 .mobile-screen {
 	width: 50%;
