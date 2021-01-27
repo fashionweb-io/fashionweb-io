@@ -92,7 +92,7 @@ h3 {
 	text-transform: uppercase;
 }
 h4 {
-	font-size: 16px;
+	font-size: 18px;
 	color: black;
 	font-weight: bold;
 }
@@ -101,6 +101,10 @@ p {
 	color: black;
 	line-height: 1.7;
 	padding-bottom: 20px;
+}
+strong {
+	font-weight: bold;
+	background-color: #e4c27b;
 }
 a {
 	text-decoration: none;
