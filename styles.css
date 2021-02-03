@@ -267,7 +267,7 @@ span.spoiler {
 		padding: 0 0 10px 10px;
 		font-size: 16px;
 	}
-	h3 {
+	h3, h4 {
 		font-size: 15px;
 	}
 	p, li {
@@ -295,7 +295,7 @@ span.spoiler {
 	h2 {
 		font-size: 15px;
 	}
-	p, li, h3 {
+	p, li, h3, h4 {
 		font-size: 14px;
 	}
 	.blog-post ul li {
