@@ -268,7 +268,7 @@ span.spoiler {
 		font-size: 16px;
 	}
 	h3 {
-		font-size: 16px;
+		font-size: 15px;
 	}
 	p, li {
 		font-size: 15px;
@@ -289,7 +289,7 @@ span.spoiler {
 }
 @media all and (max-width: 375px) {
 	h1 {
-		font-size: 26px;
+		font-size: 28px;
 		padding: 25px 20px 0 20px;
 	}
 	p, li, h3 {
