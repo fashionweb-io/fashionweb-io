@@ -292,6 +292,9 @@ span.spoiler {
 		font-size: 28px;
 		padding: 25px 20px 0 20px;
 	}
+	h2 {
+		font-size: 15px;
+	}
 	p, li, h3 {
 		font-size: 14px;
 	}
@@ -304,10 +307,13 @@ span.spoiler {
 }
 @media all and (max-width: 320px) {
 	h1 {
-		font-size: 24px;
+		font-size: 26px;
 	}
 	h2 {
 		font-size: 14px;
+	}
+	h3 {
+		font-size: 13px;
 	}
 	p, li, h3 {
 		font-size: 12px;
