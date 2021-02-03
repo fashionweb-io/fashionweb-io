@@ -293,7 +293,7 @@ span.spoiler {
 		padding: 25px 20px 0 20px;
 	}
 	h2 {
-		font-size: 15px;
+		font-size: 16px;
 	}
 	p, li, h3, h4 {
 		font-size: 14px;
@@ -315,7 +315,7 @@ span.spoiler {
 	h3 {
 		font-size: 13px;
 	}
-	p, li, h3 {
+	p, li, h4 {
 		font-size: 12px;
 	}
 	.container {
